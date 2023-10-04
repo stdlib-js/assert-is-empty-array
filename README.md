@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isEmptyArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-empty-array@deno/mod.js';
+import isEmptyArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-empty-array@v0.1.1-deno/mod.js';
 ```
 
 #### isEmptyArray( value )
@@ -67,7 +67,7 @@ var bool = isEmptyArray( [] );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isEmptyArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-empty-array@deno/mod.js';
+import isEmptyArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-empty-array@v0.1.1-deno/mod.js';
 
 var bool = isEmptyArray( [] );
 // returns true
