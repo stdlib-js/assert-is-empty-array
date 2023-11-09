@@ -111,6 +111,8 @@ bool = isEmptyArray( {} );
 ## See Also
 
 -   <span class="package-name">[`@stdlib/assert-is-array`][@stdlib/assert/is-array]</span><span class="delimiter">: </span><span class="description">test if a value is an array.</span>
+-   <span class="package-name">[`@stdlib/assert-is-empty-array-like-object`][@stdlib/assert/is-empty-array-like-object]</span><span class="delimiter">: </span><span class="description">test if a value is an empty array-like object.</span>
+-   <span class="package-name">[`@stdlib/assert-is-empty-collection`][@stdlib/assert/is-empty-collection]</span><span class="delimiter">: </span><span class="description">test if a value is an empty collection.</span>
 
 </section>
 
@@ -188,6 +190,10 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 <!-- <related-links> -->
 
 [@stdlib/assert/is-array]: https://github.com/stdlib-js/assert-is-array
+
+[@stdlib/assert/is-empty-array-like-object]: https://github.com/stdlib-js/assert-is-empty-array-like-object
+
+[@stdlib/assert/is-empty-collection]: https://github.com/stdlib-js/assert-is-empty-collection
 
 <!-- </related-links> -->
 
