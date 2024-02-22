@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isEmptyArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-empty-array@esm/index.mjs';
+import isEmptyArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-empty-array@v0.2.1-esm/index.mjs';
 ```
 
 #### isEmptyArray( value )
@@ -72,7 +72,7 @@ var bool = isEmptyArray( [] );
 <body>
 <script type="module">
 
-import isEmptyArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-empty-array@esm/index.mjs';
+import isEmptyArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-empty-array@v0.2.1-esm/index.mjs';
 
 var bool = isEmptyArray( [] );
 // returns true
