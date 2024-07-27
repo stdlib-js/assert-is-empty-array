@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import isEmptyArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-empty-array@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-is-empty-array/tags). For example,
+
+```javascript
 import isEmptyArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-empty-array@v0.2.2-deno/mod.js';
 ```
 
@@ -67,7 +72,7 @@ var bool = isEmptyArray( [] );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isEmptyArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-empty-array@v0.2.2-deno/mod.js';
+import isEmptyArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-empty-array@deno/mod.js';
 
 var bool = isEmptyArray( [] );
 // returns true
